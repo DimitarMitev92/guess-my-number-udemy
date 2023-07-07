@@ -36,13 +36,9 @@ To play Guess My Number locally, follow these steps:
 
 1.  Clone the repository:
 
-    shell
-
 -   `git clone https://github.com/DimitarMitev92/guess-my-number-udemy.git`
 
     -   Navigate to the project directory:
-
-    shell
 
 1.  `cd guess-my-number-udemy`
 
